@@ -1,0 +1,10 @@
+100001636752639 3561054247292432 //supperman
+186839246249125 3836115373075101 //lookmun
+
+https://www.facebook.com/live/producer/3840867202599918/?source=CAMERA&entry_point=feedx_sprouts
+curl -i -X GET \
+  "https://graph.facebook.com/3838267896193182
+    ?access_token=your-access-token"
+https://www.facebook.com/%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-106079597654626
+
+https://www.facebook.com/v2.3/dialog/oauth?app_id=3838267896193182&auth_type=&cbt=1605864785636&channel_url=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df238b54326c1ec8%26domain%3Dlocalhost%26origin%3Dhttp%253A%252F%252Flocalhost%253A3000%252Ff6ff2f3dd42718%26relation%3Dopener&client_id=3838267896193182&display=popup&domain=localhost&e2e=%7B%7D&fallback_redirect_uri=http%3A%2F%2Flocalhost%3A3000%2F&locale=en_US&logger_id=f350db332c104a8&origin=1&redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df21d97e1136c56%26domain%3Dlocalhost%26origin%3Dhttp%253A%252F%252Flocalhost%253A3000%252Ff6ff2f3dd42718%26relation%3Dopener%26frame%3Df1c4fbb3e7d3d7c&response_type=token%2Csigned_request%2Cgraph_domain&return_scopes=false&scope=public_profile%2Cemail&sdk=joey&version=v2.3
